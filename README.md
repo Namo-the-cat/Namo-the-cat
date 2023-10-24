@@ -1,6 +1,5 @@
 # Project 0 upcoming!
 ## Status
-| Thing     | Status
-| Failures  | 1
-| Status    | In progress
+Status: Not done
+Failures: 1
 # Goodbye.
