@@ -21,4 +21,4 @@ However, if I did not do it, it may be someone else. Follow these to stay safe.
  - I will leave a comment if I already reported it.
 
 
-#End of text file
+# End of text file
